@@ -340,6 +340,7 @@ const Footer = () => (
   <footer className="py-10">
     <div className="container text-center text-xs text-muted-foreground">
       <p>© 2026 bliver</p>
+      <p className="mt-1">bliver é uma marca de LUIZ H M S DE ARAUJO LTDA - ME</p>
     </div>
   </footer>
 );
